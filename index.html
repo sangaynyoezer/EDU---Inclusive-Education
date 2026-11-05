@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Different Abilities, Equal Opportunities</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<a class="skip" href="#caption">Skip to captions</a>
+<header>
+  <p class="brand">Inclusive Education Digital Story</p>
+  <div class="tools" role="toolbar" aria-label="Sound and accessibility settings">
+    <button id="mute" aria-pressed="false">Music: on</button>
+    <label>Volume <input id="vol" type="range" min="0" max="1" step="0.05" value="0.5"></label>
+    <button id="vo" aria-pressed="true" hidden>Voice-over: on</button>
+    <button id="sm" aria-label="Smaller text">A-</button>
+    <button id="lg" aria-label="Larger text">A+</button>
+    <button id="hc" aria-pressed="false">High contrast</button>
+    <button id="rf" aria-pressed="false">Readable font</button>
+  </div>
+</header>
+<main>
+  <section id="start" class="card">
+    <h1>Different Abilities, Equal Opportunities</h1>
+    <p class="msg">Stop Stigma. End Discrimination. Inclusion Starts With Us!</p>
+    <p>Kuzuzangpo la! Follow Lekzin, Kuenga, Namling and their teacher in Class VIII. About 4 to 5 minutes. Tap the glowing stars for facts and questions.</p>
+    <button id="go" class="big">Begin the story</button>
+    <p class="hint">Keys: Right and Left arrows move through the story. Press M to mute music. Captions are always on.</p>
+  </section>
+
+  <section id="story" hidden>
+    <h2 id="st"></h2>
+    <nav id="chapters" aria-label="Scenes"></nav>
+    <div id="stage"><svg id="art" viewBox="0 0 800 420" role="img"></svg><div id="spots"></div></div>
+    <div id="caption" aria-live="polite"><strong id="who"></strong><p id="line"></p></div>
+    <div class="ctl">
+      <button id="back">&#9664; Back</button>
+      <button id="auto" aria-pressed="false">Auto-play: off</button>
+      <button id="next">Next &#9654;</button>
+    </div>
+  </section>
+
+  <section id="end" class="card" hidden>
+    <h2 tabindex="-1">Different abilities, equal rights.</h2>
+    <p class="msg">Stop stigma. End discrimination. Inclusion starts with us!</p>
+    <p>Every learner deserves to belong, participate and succeed.</p>
+    <button id="pledge" class="big">Take the pledge</button>
+    <button id="replay">Watch again</button>
+  </section>
+</main>
+<dialog id="dlg" aria-labelledby="dt"><h2 id="dt"></h2><div id="db"></div><button id="dx">Close</button></dialog>
+<script src="js/data.js"></script>
+<script src="js/characters.js"></script>
+<script src="js/audio.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

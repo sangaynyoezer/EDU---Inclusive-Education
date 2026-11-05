@@ -1,0 +1,45 @@
+Record each line, save as the filename shown (mp3). Stage directions need no recording.
+
+s1-l01.mp3 | Rinchen (Narrator): Welcome to Class VIII! A classroom where one student thinks they are a genius, another loves making jokes, and one student is about to teach everyone a lesson they will never forget!
+s1-l02.mp3 | Kuenga: Everybody relax! The class topper has arrived. If intelligence were money, I would own the whole country!
+s1-l03.mp3 | Namling: Really? Then why did you borrow my pen yesterday?
+s1-l04.mp3 | Kuenga: That was a financial investment!
+s1-l06.mp3 | Teacher: All right, comedians! Today, you will work in groups to design a poster about creating an inclusive school environment.
+s1-l07.mp3 | Lekzin: Teacher, could you please explain the instructions one more time? I need a little more time to understand them.
+s1-l08.mp3 | Kuenga: Again? We haven't even started, and you're already asking questions!
+s1-l09.mp3 | Namling: Maybe Kuenga's brain is running on Wi-Fi, and Lekzin's is still connecting!
+s1-l11.mp3 | Rinchen (Narrator): Everyone laughed, but not everyone found it funny. What seemed like a harmless joke to some became a hurtful experience for someone else. Sometimes, judging people based on their differences is where stigma begins.
+s2-l02.mp3 | Lekzin: Can I join your group?
+s2-l03.mp3 | Kuenga: Sorry, we need fast workers. This project is a race, not a sleeping competition!
+s2-l04.mp3 | Namling: Don't worry, Lekzin. Kuenga thinks making a poster is the Olympics!
+s2-l06.mp3 | Lekzin: It's okay. I'll work alone.
+s2-l07.mp3 | Rinchen (Narrator): Lekzin was left out of the group simply because they needed more time to understand the instructions. The jokes and exclusion gradually made Lekzin feel unwanted.
+s2-l09.mp3 | Lekzin: (thinking aloud) Maybe I should stop asking questions. Maybe my ideas aren't good enough.
+s2-l11.mp3 | Kuenga: Why does this poster look like a potato wearing sunglasses?
+s2-l12.mp3 | Namling: Because the artist is a genius, apparently!
+s2-l14.mp3 | Rinchen (Narrator): Here's the problem: stigma happens when people develop negative beliefs or stereotypes about others because of their differences. Discrimination occurs when those beliefs result in unfair treatment, exclusion or denial of opportunities.
+s3-l02.mp3 | Lekzin: Can I suggest something? What if we use drawings instead of writing everything? I could sketch the main ideas.
+s3-l03.mp3 | Kuenga: You? But you needed the instructions repeated!
+s3-l04.mp3 | Lekzin: Yes, I needed them explained more clearly. That doesn't mean I have no ideas.
+s3-l06.mp3 | Namling: Wait a minute! That looks better than our potato!
+s3-l07.mp3 | Kuenga: How did you do that?
+s3-l08.mp3 | Lekzin: I like drawing. It helps me express my ideas.
+s3-l09.mp3 | Namling: So, we've been judging the artist before even seeing the artwork!
+s3-l10.mp3 | Rinchen (Narrator): Suddenly, the students discovered something important. Needing support in one area does not mean someone lacks talent, intelligence or potential in other areas. Every learner has different strengths and may require different kinds of support.
+s4-l02.mp3 | Teacher: Well, well! It looks like we have discovered an artist in our classroom. But tell me, what happened earlier?
+s4-l03.mp3 | Lekzin: I wanted to join the group, but they thought I would be too slow because I needed more time to understand the instructions.
+s4-l04.mp3 | Teacher: I see. Kuenga and Namling, what do you think about that?
+s4-l05.mp3 | Kuenga: I thought needing more time meant someone couldn't contribute equally. But I was wrong.
+s4-l06.mp3 | Namling: And I thought my jokes were harmless. I didn't realise they could make someone feel excluded.
+s4-l07.mp3 | Teacher: That's an important lesson. Stigma and discrimination can prevent learners from feeling accepted and participating fully in school activities.
+s4-l08.mp3 | Kuenga: So, how can we prevent it?
+s4-l09.mp3 | Teacher: It starts with simple actions. Respect individual differences, avoid hurtful labels, listen to others and provide support when someone needs it.
+s4-l10.mp3 | Namling: So, instead of expecting everyone to learn in exactly the same way, we should give everyone a fair opportunity to participate?
+s4-l11.mp3 | Teacher: Exactly! Inclusion does not mean treating everyone identically. It means recognising individual needs and providing the support and opportunities necessary for everyone to participate and learn.
+s4-l12.mp3 | Rinchen (Narrator): An inclusive classroom is not one where differences are ignored. It is one where differences are respected and every learner is given the opportunity to belong.
+s5-l02.mp3 | Kuenga: Lekzin, I'm sorry for judging you and making you feel excluded. Would you like to work with us? We could really use your drawing skills.
+s5-l03.mp3 | Lekzin: Of course! I'd love to.
+s5-l04.mp3 | Namling: And this time, no potato posters! We're making something everyone can be proud of!
+s5-l06.mp3 | Teacher: Remember, every learner deserves respect, acceptance and equal opportunities. We should never allow someone's differences to become a reason for exclusion.
+s5-l07.mp3 | Rinchen (Narrator): A learner's ability should never be judged by how quickly they complete a task, how they communicate or how differently they learn. When we challenge stereotypes, reject discrimination and support one another, we create a school where everyone belongs.
+s5-l09.mp3 | All Members Together: "Different abilities, equal opportunities! Stop stigma, end discrimination! Inclusion starts with us!"
